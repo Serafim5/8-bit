@@ -1,0 +1,5 @@
+{
+  "name": "Duck Hunt Retro",
+  "description": "A classic arcade-style Duck Hunt game built with React, featuring random duck flight patterns, ammo management, and retro aesthetics.",
+  "requestFramePermissions": []
+}
